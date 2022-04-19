@@ -1,2 +1,2 @@
 tasks:
-  - command: "sudo sh update-jdk.sh"
+  - command: "source update-jdk.sh"
